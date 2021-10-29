@@ -1,0 +1,9 @@
+{
+  "name": "@tabuleo/prettier-config",
+  "version": "1.0.0",
+  "description": "Tabuleo's default prettier configuration",
+  "main": "index.json",
+  "repository": "git@github.com:tabuleo/prettier-config.git",
+  "author": "Oualid HASSAN <oualid.hassan.pro@gmail.com>",
+  "license": "MIT"
+}
